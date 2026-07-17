@@ -22,7 +22,7 @@ class GallerySection extends StatelessWidget {
           SectionTitle(
             title: CommunityData.galleryTitle,
             subtitle:
-                'Cuplikan dokumentasi kegiatan. Ganti dengan foto asli dari Instagram @senyumsehat.id.',
+                'Cuplikan dokumentasi kegiatan. lihat lebih banyak di Instagram @senyumsehat.id.',
           ),
           GridView.builder(
             shrinkWrap: true,
