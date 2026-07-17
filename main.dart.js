@@ -65577,7 +65577,7 @@ M(a){var s,r=A.bu(a,null,t.w).w
 A.ajy(a)
 if(r.a.a<700)s=2
 else s=3
-return new A.hL(A.dS(A.d([A.a_o("Cuplikan dokumentasi kegiatan. Ganti dengan foto asli dari Instagram @senyumsehat.id.","Galeri Kegiatan"),A.afr(new A.Fz(s,14,14,1),new A.So(),6,B.ql,!0)],t.p),B.P,B.V),B.i,this.c,null)}}
+return new A.hL(A.dS(A.d([A.a_o("Cuplikan dokumentasi kegiatan. lihat lebih banyak di Instagram @senyumsehat.id.","Galeri Kegiatan"),A.afr(new A.Fz(s,14,14,1),new A.So(),6,B.ql,!0)],t.p),B.P,B.V),B.i,this.c,null)}}
 A.So.prototype={
 $2(a,b){return A.rb(A.c9(14),A.Cg(B.Cu[b],new A.Sn(),B.dP,null,null))},
 $S:418}
